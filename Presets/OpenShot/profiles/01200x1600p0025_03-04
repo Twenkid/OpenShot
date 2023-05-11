@@ -1,0 +1,10 @@
+description=1200x1600 25 fps
+frame_rate_num=25
+frame_rate_den=1
+width=1200
+height=1600
+progressive=1
+sample_aspect_num=3
+sample_aspect_den=4
+display_aspect_num=3
+display_aspect_den=4

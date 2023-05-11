@@ -1,0 +1,10 @@
+description=1600x1200 50 fps QSV
+frame_rate_num=50
+frame_rate_den=1
+width=1600
+height=1200
+progressive=1
+sample_aspect_num=4
+sample_aspect_den=3
+display_aspect_num=4
+display_aspect_den=3

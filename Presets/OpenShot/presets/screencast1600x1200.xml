@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE openshot-export-option>
+<export-option>
+	<type translatable="True">Screencast 1600x1200 QSV</type>
+    <title translatable="True">Screencast 1600x1200 QSV</title>
+	<videoformat>mp4</videoformat>
+	<videocodec>h264_qsv</videocodec>
+	<audiocodec>aac</audiocodec>
+	<audiochannels>2</audiochannels>
+	<audiochannellayout>3</audiochannellayout>
+	<videobitrate
+	 low="1 Mb/s"
+	 med="2 Mb/s"
+	 high="3 Mb/s"></videobitrate>
+	<audiobitrate
+	 low="128 kb/s"
+	 med="256 kb/s"
+	 high="320 kb/s"></audiobitrate>
+	<samplerate>48000</samplerate>
+	<projectprofile>1600x1200 10 fps QSV</projectprofile>
+	<projectprofile>1600x1200 25 fps QSV</projectprofile>	
+	<projectprofile>1600x1200 50 fps QSV</projectprofile>
+</export-option>
